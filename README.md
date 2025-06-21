@@ -2,6 +2,8 @@
 
 
 First clone the link- git clone "url"
+
+# 62 line "your-container-image:tag" # Replace with your container image
 then run the below commands:
 
 terraform init
